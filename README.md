@@ -1,7 +1,9 @@
-Tempate para o modelo do Trabalho de conclusão de curso da Universidade de Brasília - Faculdade do Gama em LaTeX
-================================================================================================================
+Template de LaTeX
+=================
 
-Bibliotecas nescessárias para compilação:
+Tempate para o modelo do Trabalho de conclusão de curso da Universidade de Brasília - Faculdade do Gama em LaTeX
+
+Bibliotecas nescessárias para compilação
 ========================================
 
 - texlive-latex-base
@@ -15,3 +17,9 @@ Bibliotecas nescessárias para compilação:
 - texlive-lang-french
 - texlive-lang-portuguese
 
+Comando de terminal
+===================
+
+comando para distribuições baseadas em Debian, Ubuntu e derivados(pacote apt-get):
+
+- sudo apt-get update && sudo apt-get install texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-base texlive-publishers texlive-fonts-recommended texlive-generic-recommended texlive-lang-german texlive-lang-french texlive-lang-portuguese
