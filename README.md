@@ -20,6 +20,6 @@ Bibliotecas nescessárias para compilação
 Comando de terminal
 ===================
 
-comando para distribuições baseadas em Debian, Ubuntu e derivados(pacote apt-get):
+Comando para distribuições baseadas em Debian, Ubuntu e derivados(pacote apt-get):
 
 - sudo apt-get update && sudo apt-get install texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-base texlive-publishers texlive-fonts-recommended texlive-generic-recommended texlive-lang-german texlive-lang-french texlive-lang-portuguese
