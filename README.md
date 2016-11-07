@@ -1,9 +1,7 @@
 Tempate para o modelo do Trabalho de conclusão de curso da Universidade de Brasília - Faculdade do Gama em LaTeX
-
 ================================================================================================================
 
 Bibliotecas nescessárias para compilação:
-
 ========================================
 
 - texlive-latex-base
